@@ -1,0 +1,101 @@
+.title {
+    color: rgb(43, 204, 18);
+    background: rgb(16, 98, 136);
+    margin: 0;
+    padding: 12px;
+    border-radius: 0px;
+    margin-bottom: 0px;
+}
+
+.one {
+    color: rgb(74, 2, 241);
+    background-color: rgb(65, 40, 2);
+    margin: 0px;
+    padding: 24px;
+    border-radius: 0px;
+}
+
+.two {
+    background: linear-gradient(rgb(53, 143, 23), rgb(35, 67, 0));
+    padding: 20px;
+    border-radius: 20px;
+    margin: 0px;
+    color: blue;
+}
+
+.three {
+    background-color: rgb(21, 168, 168);
+    padding: 20px;
+    border-radius: 20px;
+    margin: 0px;
+    color: blue;
+    width: 200px;
+    height: 67px;
+    border-radius: 67px;
+}
+
+.four {
+    background-color: rgb(21, 43, 168);
+    padding: 20px;
+    border-radius: 20px;
+    margin: 5pxpx;
+    color: rgb(0, 217, 255);
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+
+}
+
+.fifht {
+    padding: 20px;
+    background-color: rgb(21, 43, 168);
+    margin: 6px;
+    color: aqua;
+    list-style: none;
+}
+
+.sics {
+    float: left;
+    width: auto;
+    padding: 20px;
+    background-color: rgb(21, 43, 168);
+    margin: 6px;
+    color: aqua;
+    list-style: none;
+}
+
+.a {
+    font-size: rgb(0, 255, 149);
+    padding: 10px 25 px;
+
+}
+
+#header {
+    width:1000x;
+    background-color: rgb(93, 206, 59);
+    height: 100px;;
+ }
+
+#content {
+    width:10000px;
+    background-color: rgb(64, 20, 90);
+    height: 100px;;
+ }
+
+#footer{
+    width:10000px;
+    background-color: rgb(158, 106, 37);
+    height: 100px;;
+ }
+
+ #side-bar{
+    width:10000px;
+    background-color: rgb(238, 12, 12);
+    height: 100px;;
+ }
+
+
+ 
+
+
+
